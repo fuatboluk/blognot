@@ -4,7 +4,7 @@
 .background-home {
     width: 100vw;
     height: 100vh;
-    background-image: url("/static/img/bg-1.jpg");
+    background-image: url("/blognot/static/img/bg-1.jpg");
     background-repeat: repeat-y;
     background-position: left top;
     -webkit-background-size: 100% 100%;
@@ -16,7 +16,7 @@
 .background {
     width: 100vw;
     height: 100vh;
-    background-image: url("/static/img/bg-1.jpg");
+    background-image: url("/blognot/static/img/bg-1.jpg");
     background-repeat: no-repeat no-repeat;
     background-position: fixed fixed;
     -webkit-background-size: cover;
@@ -471,7 +471,7 @@
 }
 
 .modal-header {
-    background-image: url("/static/img/bg-1.jpg");
+    background-image: url("/blognot/static/img/bg-1.jpg");
     background-repeat: no-repeat;
     background-position: top left;
     color: rgba(255, 255, 255, 1);
@@ -572,7 +572,7 @@ input[type="file"]::file-selector-button {
 }
 
 .modal-footer {
-    background-image: url("/static/img/bg-1.jpg");
+    background-image: url("/blognot/static/img/bg-1.jpg");
     background-repeat: no-repeat;
     background-position: top center;
     color: rgba(255, 255, 255, 1);
